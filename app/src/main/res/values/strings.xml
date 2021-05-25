@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Contact</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name_sample">Ho Van Ngan</string>
+    <string name="phone_sample">0702460485</string>
+    <string name="no_data_available">No data available</string>
+    <string name="duration_sample">[0:20]</string>
+    <string name="date_created_sample">17:40:18 20-10-2021</string>
+    <string name="danh_ba">DANH BA</string>
+    <string name="nhat_ky">NHAT KY</string>
+    <string name="you_have_not_enough_grant_permission">Bạn chưa cấp đủ quyền cho ứng dụng</string>
+</resources>
